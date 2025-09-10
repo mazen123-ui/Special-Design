@@ -19,7 +19,7 @@ This project was a great way to practice **HTML, CSS, and JS** together and try 
 - **Font Awesome** for icons
 
 ## 🚀 Live Demo
-👉 [Add your demo link here once you host it]
+👉 https://mazen123-ui.github.io/Special-Design/
 
 ## 💡 Lessons Learned
 - How to use `IntersectionObserver` for performance-friendly animations.
